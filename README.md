@@ -4,12 +4,17 @@
 Revisão HTML, CSS e JavaScript
 ---- 
 
-HTML-
+HTML
+---
+HTML é a linguagem usada para estruturar o conteúdo de uma página web. Ele define elementos como títulos, parágrafos, imagens, links e outros componentes, organizando tudo por meio de tags. Sua função principal é descrever a estrutura da página.
 
-CSS-
+CSS
+---
+CSS é responsável pela aparência visual da página. Ele controla aspectos como cores, fontes, espaçamento, posicionamento e layout dos elementos definidos pelo HTML. Com o CSS, é possível tornar a interface mais organizada e visualmente agradável.
 
-JavaScript-
-
+JavaScript
+---
+JavaScript é a linguagem que adiciona interatividade às páginas web. Ele permite criar funcionalidades como respostas a cliques, validação de formulários, animações e atualização dinâmica de conteúdo, tornando a experiência do usuário mais completa.
 
 
 Diferença entre Java, JavaScript e TypeScript
