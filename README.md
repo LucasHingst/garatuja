@@ -1,13 +1,15 @@
 # Garatuja do Lucas Hingst & Max Verstappen
 
 
-*Diferença entre Java, JavaScript e TypeScript
+Diferença entre Java, JavaScript e TypeScript
+----
 Java é uma linguagem compilada, fortemente tipada e orientada a objetos, usada geralmentes para aplicações grandes, como apps ou até sistemas bancários.
 JavaScript é interpretado, dinâmico e flexível, usado principalmente no front-end para interatividade (e também no back-end com Node.js).
 TypeScript é um superset do JavaScript que adiciona tipagem estática e recursos extras, ajudando a evitar erros e melhorar a organização do código.
 
- 
-*POO(Programação Orientada à Objetos)
+
+POO(Programação Orientada à Objetos)
+----
 
 Classe
 --------------------------------------------------------------------------------------------------------------------
