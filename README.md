@@ -44,4 +44,5 @@ Encapsulamento
 Consiste em ocultar os dados e permitir acesso controlado. Public pode ser acessado de qualquer lugar. Private apenas dentro da classe. Protected dentro da classe e também nas classes que herdam dela.
 
 Polimorfismo
+--------------------------------------------------------------------------------------------------------------------
 É quando um mesmo método pode ter comportamentos diferentes dependendo do objeto que o utiliza. Pode ocorrer por sobrescrita (override) ou sobrecarga (overload), permitindo reutilizar o mesmo nome com funções diferentes.
