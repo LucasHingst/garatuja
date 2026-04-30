@@ -1,6 +1,17 @@
 # Garatuja do Lucas Hingst & Max Verstappen
 
 
+Revisão HTML, CSS e JavaScript
+---- 
+
+HTML-
+
+CSS-
+
+JavaScript-
+
+
+
 Diferença entre Java, JavaScript e TypeScript
 ----
 Java é uma linguagem compilada, fortemente tipada e orientada a objetos, usada geralmentes para aplicações grandes, como apps ou até sistemas bancários.
